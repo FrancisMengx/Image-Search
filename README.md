@@ -13,3 +13,5 @@
 * [x] Use the StaggeredGridView to display improve the grid of image results
 
 ##Demo
+
+![Demo](https://github.com/FrancisMengx/Image-Search/blob/master/Demo.gif)
