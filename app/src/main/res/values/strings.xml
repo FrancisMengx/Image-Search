@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_title">Search</string>
+    <string name="label">Search Images</string>
+    <string name="title_activity_image_display">Image</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
